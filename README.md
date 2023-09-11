@@ -37,7 +37,7 @@
   Abaixo veremos um pouco sobre <b>Configurações do ambiente, monitoramento de comandos, consultar plano de execução, criar bancos e tabelas e índices eficientes, entre outras...
   
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/README.md"> &nbsp; 1 - Downloads e Instalações</a></p>
+<p><a href="https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/README.md"> &nbsp; &nbsp; 1 - Downloads e Instalações</a></p>
 </div> 
 
   
