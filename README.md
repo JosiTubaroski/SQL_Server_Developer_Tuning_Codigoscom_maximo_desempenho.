@@ -41,7 +41,7 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/SQL_Server_Manag_Studio"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2 - Sobre Sql Server Managment Studio</a></p>
+<p><a href="https://github.com/JosiTubaroski/SQL_Server_Manag_Studio"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2 - Sobre Sql Server Managment Studio, download e restore de base</a></p>
 </div> 
 
 
