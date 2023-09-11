@@ -40,6 +40,12 @@
 <p><a href="https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/README.md"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1 - Downloads e Instalações</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/SQL_Server_Manag_Studio"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2 - Sobre Sql Server Managment Studio</a></p>
+</div> 
+
+
+
   
 
 
