@@ -1,0 +1,2 @@
+# SQL_Server_Developer_Tuning_Codigoscom_maximo_desempenho.
+SQL_Server_Developer_Tuning_Codigoscom_maximo_desempenho.
