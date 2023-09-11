@@ -35,8 +35,12 @@
    - 5 - O ciclo deve ser constante e realizado periodicamente.
  
   Abaixo veremos um pouco sobre <b>Configurações do ambiente, monitoramento de comandos, consultar plano de execução, criar bancos e tabelas e índices eficientes, entre outras...
+  
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/README.md">1 - Downloads e Instalações</a></p>
+</div> 
 
-  https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/README.md
+  
 
 
 
