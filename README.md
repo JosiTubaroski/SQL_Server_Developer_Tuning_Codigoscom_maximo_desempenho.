@@ -37,11 +37,15 @@
   Abaixo veremos um pouco sobre <b>Configurações do ambiente, monitoramento de comandos, consultar plano de execução, criar bancos e tabelas e índices eficientes, entre outras...
   
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/README.md"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1 - Downloads e Instalações SQL Server, SSMS</a></p>
+<p>º<a href="https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/README.md">  1 - Downloads e Instalações SQL Server, SSMS</a></p>
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/SQL_Server_Manag_Studio"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2 - Sobre Sql Server Managment Studio, download e restore de base</a></p>
+<p>º<a href="https://github.com/JosiTubaroski/SQL_Server_Manag_Studio"> 2 - Sobre Sql Server Managment Studio, download e restore de base</a></p>
+</div> 
+
+<div> 
+<p>º<a href="https://github.com/JosiTubaroski/SQL_Server_Manag_Studio"> 3 - Onde os dados repousam. Uma introdução a página de dados.</a></p>
 </div> 
 
 
