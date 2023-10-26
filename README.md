@@ -45,7 +45,7 @@
 </div> 
 
 <div> 
-<p>º<a href="https://github.com/JosiTubaroski/-Onde_dados_repousam.-"> 3 - Onde os dados repousam. Uma introdução a página de dados.</a></p>
+<p>º<a href="https://github.com/JosiTubaroski/-Onde_dados_repousam.-"> 3 - Onde os dados repousam / Memoria da Instancia do SQL.</a></p>
 </div> 
 
 
