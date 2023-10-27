@@ -48,6 +48,12 @@
 <p>º<a href="https://github.com/JosiTubaroski/-Onde_dados_repousam.-"> 3 - Onde os dados repousam / Memoria da Instancia do SQL.</a></p>
 </div> 
 
+<div> 
+<p>º<a href="https://github.com/JosiTubaroski/Design-de-Banco-de-Dados"> 4 - Design de Banco de Dados / Armazenamento e tipos de dados.</a></p>
+</div> 
+
+
+
 
 
   
