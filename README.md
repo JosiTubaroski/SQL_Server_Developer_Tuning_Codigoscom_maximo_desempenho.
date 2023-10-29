@@ -49,7 +49,7 @@
 </div> 
 
 <div> 
-<p>º<a href="https://github.com/JosiTubaroski/Design-de-Banco-de-Dados"> 4 - Design de Banco de Dados / Armazenamento e tipos de dados.</a></p>
+<p>º<a href="https://github.com/JosiTubaroski/Design-de-Banco-de-Dados"> 4 - Design / Armazenamento e tipos de dados / Desempenho / Arvore Balanceada.</a></p>
 </div> 
 
 
