@@ -52,6 +52,10 @@
 <p>º<a href="https://github.com/JosiTubaroski/Design-de-Banco-de-Dados"> 4 - Design / Armazenamento e tipos de dados / Desempenho / Arvore Balanceada.</a></p>
 </div> 
 
+<div> 
+<p>º<a href="https://github.com/JosiTubaroski/P-ginas-de-Dados/"> 5 - Armazenamento de Dados.</a></p>
+</div> 
+
 
 
 
